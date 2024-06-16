@@ -1,0 +1,70 @@
+/* div{
+    height: 100vh;
+    background-color: greenyellow;
+    background-image: url("https://images.unsplash.com/photo-1553166272-e69910ab5ae1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+} */
+/* *{
+    margin: 0;
+}
+div{
+    height: 100vh;
+    
+    background-image: linear-gradient(rgba(37, 236, 243, 0.226),rgba(236, 174, 236, 0.26)) ,url("https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    
+} */
+ /* div{
+    width: 200px;
+    height: 200px;
+    background: rgb(65, 65, 182);
+    box-shadow: 10px 10px 20px orange;
+ } */
+ .container{
+    background: gray;
+    width: 700px;
+    height: 500px;
+ }
+ .d{
+    width: 100px;
+    height: 100px;
+}
+ .one{
+    background: blue;
+ }
+ .two{
+    background: teal;
+ }
+ .three{
+    background: red;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
